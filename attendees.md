@@ -5,7 +5,7 @@ permalink: /attendees/
 --- 
 
 <table cellspacing="14">
-<tr>	<td>	Stephen Abrams	</td>	<td>	</td>	<td>	CDL/UC3	</td>	</tr>
+<tr>	<td>	Stephen Abrams	</td>	<td>	</td>	<td>	UC3	</td>	</tr>
 <tr>	<td>	Sherri Berger	</td>	<td>	</td>	<td>	CDL	</td>	</tr>
 <tr>	<td>	Geoffrey Boushey	</td>	<td>	</td>	<td>	UC San Francisco	</td>	</tr>
 <tr>	<td>	Mark Bridge	</td>	<td>	</td>	<td>	UC San Francisco	</td>	</tr>
